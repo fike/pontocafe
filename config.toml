@@ -1,7 +1,7 @@
 baseURL = "https://pontocafe.fernandoike.com"
 languageCode = "pt-br"
 defaultContentLanguage = "pt"
-title = "Cayman"
+title = "Ponto Café Podcast"
 theme = "cayman-hugo-theme"
 removePathAccents = true
 
@@ -62,7 +62,7 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "Blog"
+    name = "Posts"
     url = "/"
     weight = 1
   [[menu.nav]]
