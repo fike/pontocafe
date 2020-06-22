@@ -1,7 +1,8 @@
 ---
 title: "001 - Pery Lemke SRE e coisas mais"
-date: 2020-06-21T11:17:40-03:00
+date: 2020-05-06T08:00:00-03:00
 tags: ["sre", "devops", "tech lead", "kanban", "saude mental"]
+draft: false
 ---
 ![](/images/pontocafe_001.png)
 

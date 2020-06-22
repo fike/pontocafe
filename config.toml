@@ -3,12 +3,13 @@ languageCode = "pt-br"
 defaultContentLanguage = "pt"
 title = "Cayman"
 theme = "cayman-hugo-theme"
+removePathAccents = true
 
 # Google analytics
 googleAnalytics = "UA-34467089-4"
 
 # Disqus comments
-disqusShortname = "pontocafe"
+disqusShortname = "pontocafe-podcast"
 
 # Syntax highlighting
 pygmentsCodefences = true
