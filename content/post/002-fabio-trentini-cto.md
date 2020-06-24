@@ -11,8 +11,9 @@ Este episódio o Fábio Trentini é o convidado para conversarmos sobre como a f
 <iframe src="https://anchor.fm/pontocafe/embed/episodes/002---Fabio-Trentini---Chief-Technology-Officer-eehnil" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 **Referências**:
-- [An Elegant Puzzle: Systems of Engineering Management BPF Performance Tools The Manager's Path](https://www.amazon.com/Making-Software-Really-Works-Believe-ebook/dp/B004D4YI6G)
-- [BPF Performance Tools The Manager's Path](https://www.amazon.com/Performance-Tools-Addison-Wesley-Professional-Computing/dp/0136554822)
+- [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
+- [BPF Performance Tools](https://www.amazon.com/Performance-Tools-Addison-Wesley-Professional-Computing/dp/0136554822)
+- [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - Linkedin: https://www.linkedin.com/in/trentas
 - Twitter: https://twitter.com/trentas
 
