@@ -1,8 +1,8 @@
 ---
-title: "003 - Efemeridades Aleatórios por César Cardoso"
-date: 2020-06-26T08:00:00-03:00
+title: "006 - O início da Engenharia de Software na Escola Mais"
+date: 2020-06-25T08:00:00-03:00
 tags: ["cto", "containers", "kubernetes", "domain-driven design", "kanban", "wip", "containers"]
-draft: true
+draft: false
 ---
 ![](/images/pontocafe_006.png)
 
@@ -12,6 +12,7 @@ Falamos de Continuous Delivery, Domain-Driven Design, Micro-Serviços, Kanban, W
 
 Agradecimentos para Günther Mittermeyer, José Aliperti, Marina Castellani, Heloisa Mesquita, Taísa Hernandez, Pedro Sobral, Liliana Vega, Andressa Fonseca, Lucas Silva, Felipe Ribeiro, Felipe Gomes, Vivian Silva. e muitos outros que irão fazer esse projeto incrível ir muito longe.
 
+<iframe src="https://anchor.fm/pontocafe/embed/episodes/006---O-incio-da-Engenharia-de-Software-na-Escola-Mais-efcs5r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 **Referências**:
 * Igor Oliveira - [Linkedin](https://www.linkedin.com/in/igorolivei)
