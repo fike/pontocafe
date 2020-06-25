@@ -15,11 +15,8 @@ Agradecimentos para Günther Mittermeyer, José Aliperti, Marina Castellani, Hel
 <iframe src="https://anchor.fm/pontocafe/embed/episodes/006---O-incio-da-Engenharia-de-Software-na-Escola-Mais-efcs5r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 **Referências**:
-* Igor Oliveira - [Linkedin](https://www.linkedin.com/in/igorolivei)
-* Igor Oliveira - [Twitter](https://twitter/igorolivei)
-* Igor Oliveira - [Instagram](https://www.instagram.com/igorolivei)
-* Genilson Filho - [Linkedin](https://www.linkedin.com/in/jgdsfilho)
-* Genilson Filho - [Twitter](https://twitter/jgdsfilho)
+* Igor Oliveira - [Linkedin](https://www.linkedin.com/in/igorolivei), [Twitter](https://twitter/igorolivei), [Instagram](https://www.instagram.com/igorolivei)
+* Genilson Filho - [Linkedin](https://www.linkedin.com/in/jgdsfilho), [Twitter](https://twitter/jgdsfilho)
 * Alexandre Ruffo - [Linkedin](https://www.linkedin.com/in/alexandre-ruffo)
 * [Codificador Limpo](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476)
 * [Rápido Devagar, duas formas de pensar](https://www.amazon.com.br/Rápido-devagar-Duas-formas-pensar-ebook/dp/B00A3D1A44)
