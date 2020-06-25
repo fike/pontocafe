@@ -8,7 +8,7 @@ draft: false
 
 Episódio inaugural e para particpar o convidado é Pery Lemke, conversamos sobre carreira, as mudanças de carreira, saúde mental e a vida de um Site Reliability Engineer. Ele é SRE Manager na Nuveo, apresentador do Sudocast e pode encontrar mais informações sobre ele no https://www.perylemke.com.
 
-<iframe src="https://anchor.fm/pontocafe/embed/episodes/001---Pery-Lemke---SRE-e-coisas-mais-edn8ro" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+{{< anchor 001---Pery-Lemke---SRE-e-coisas-mais-edn8ro >}}
 
 Referências:
 - [Phase 7](https://www.imdb.com/title/tt1568816/)

@@ -8,7 +8,7 @@ draft: false
 
 Episódio experimental, mais curto e um monólogo. O assunto é custo implícito de coordenação. Muitas vezes não prestamos atenção quanto tempo é consumido do nosso trabalho em reuniões e outras atividades relacionadas a coordenar pessoas e processos para conseguirmos fazer o que realmente importa. A entrega de valor pode ser para o desenvolvedor entregar a nova versão, para uma pessoa de operações de TI seria atividades para manter os sistemas mais resiliente possível. 
 
-<iframe src="https://anchor.fm/pontocafe/embed/episodes/004---Custo-implcito-de-coordenao-ef64b4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+{{< anchor 004---Custo-implcito-de-coordenao-ef64b4 >}}
 
 **Referências**:
 - Twitter: https://twitter.com/fernandoike

@@ -10,6 +10,8 @@ A Tatiane Paya é a convidade para este episódio para falar sobre como funciona
 
 <iframe src="https://anchor.fm/pontocafe/embed/episodes/005---Tatiane-Paya---O-que-realmente-importa-na-Operao-Ops-de-TI-efcrf7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
+{{< anchor 005---Tatiane-Paya---O-que-realmente-importa-na-Operao-Ops-de-TI-efcrf7 >}}
+
 **Referências**:
 
 - [Arrancada, o que este esport pode nos ensinar sobre agilidade e performance](https://speakerdeck.com/tpaya/arrancada-o-que-este-esporte-pode-nos-ensinar-sobre-agilidade-e-performance)

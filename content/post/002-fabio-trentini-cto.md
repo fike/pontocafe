@@ -8,7 +8,7 @@ draft: false
 
 Este episódio o Fábio Trentini é o convidado para conversarmos sobre como a função de CTO tem diferentes funções dependendo do tipo de organização: startup, instituições públicas, grandes empresas, etc. Também conversamos sobre quais expectivas esperadas iniciar uma função de liderança.
 
-<iframe src="https://anchor.fm/pontocafe/embed/episodes/002---Fabio-Trentini---Chief-Technology-Officer-eehnil" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+{{< anchor 002---Fabio-Trentini---Chief-Technology-Officer-eehnil >}}
 
 **Referências**:
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
