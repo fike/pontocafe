@@ -24,8 +24,6 @@ Agradecimentos para Günther Mittermeyer, José Aliperti, Marina Castellani, Hel
 * [One Piece Flow vs Mass Production Envelope Stuffin Lean Thinking Simulation](https://www.youtube.com/watch?v=Dr67i5SdXiM&feature=youtu.be)
 
 Áudios
-"I Know Where You've Been" de Forget the Whales Ultradémon de Sors
-
 A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
 
 Este episódio pode ser ouvido nas plataformas:
