@@ -14,8 +14,8 @@ Episódio experimental, mais curto e um monólogo. O assunto é custo implícito
 - Twitter: https://twitter.com/fernandoike
 - O custo implicito de coordenação - https://www.fernandoike.com/2020/06/11/o-custo-implicito-de-coordenacao/
 
-
-A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
+**Áudios**:
+* A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
 
 Este episódio pode ser ouvido nas plataformas:
 * [Anchor](https://anchor.fm/pontocafe)

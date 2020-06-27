@@ -1,13 +1,14 @@
 ---
-title: "007 - Fabrízio Mello - Dá para ganhar dinheiro desenvolvendo para o PostgreSQL?"
-date: 2020-07-03T08:00:00-03:00
+title: "008 - Continuous Deployment"
+date: 2020-07-10T08:00:00-03:00
 tags: ["databases", "containers", "kubernetes", "postgresql", "cloud native"]
 draft: true
 ---
-![](/images/pontocafe_007.png)
+![](/images/pontocafe_008.png)
 
-E quem diria, chegamos no episódio 007? Fabrízio Mello é sócio na Timbira, uma empresa dedicada ao suporte do PostgreSQL e também é desenvolvedor ou melhor pesquisador na Ongres. A conversa foi sobre carreira, Agilidade, contribuição para projetos Opensource e claro, PostgreSQL. Qual foi o caminho dele para trabalhar exclusivamente com PostgreSQL e como é ser remumerado para desenvolver um projeto Opensource como PostgreSQL e StackGres.
+Este episódio é um ensaio para a apresentação sobre Continuous Deployment realizada no [TDC São Paulo Online 2020](https://thedevconf.com/tdc/2020/sampaonline/trilhas) na sala da [Zup](https://www.zup.com.br/). 
 
+{{< speakerdeck 99ba52f254cb44b2a79ddf4b01b7c0eb >}}
 
 **Referências**:
 * [Linkedin](https://www.linkedin.com/in/fabriziomello)

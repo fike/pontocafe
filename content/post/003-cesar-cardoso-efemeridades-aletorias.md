@@ -21,7 +21,8 @@ Ah, sim. Um papo ao final sobre grãos de café e formas preferidas de preparo.
 - Linkedin: https://www.linkedin.com/in/trentas
 
 
-A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
+**Áudios**:
+* A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
 
 Este episódio pode ser ouvido nas plataformas:
 * [Anchor](https://anchor.fm/pontocafe)

@@ -24,7 +24,8 @@ A Tatiane Paya é a convidade para este episódio para falar sobre como funciona
 - Linkedin: https://www.linkedin.com/in/tatypaya
 - Twitter: https://twitter.com/tatypaya
 
-A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
+**Áudios**:
+* A vinheta de abertura é "I Know Where You've Been" de Forget the Whales e fechamento é Ultradémon de Sors.
 
 Este episódio pode ser ouvido nas plataformas:
 * [Anchor](https://anchor.fm/pontocafe)

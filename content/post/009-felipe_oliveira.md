@@ -1,13 +1,12 @@
 ---
-title: "007 - Fabrízio Mello - Dá para ganhar dinheiro desenvolvendo para o PostgreSQL?"
-date: 2020-07-03T08:00:00-03:00
-tags: ["databases", "containers", "kubernetes", "postgresql", "cloud native"]
+title: "009 - Felipe Oliveira - A goroutine na vida de um programador"
+date: 2020-07-17T08:00:00-03:00
+tags: ["kanban", "golang", "agilidade", "rust", "java", "testes"]
 draft: true
 ---
-![](/images/pontocafe_007.png)
+![](/images/pontocafe_009.jpg)
 
-E quem diria, chegamos no episódio 007? Fabrízio Mello é sócio na Timbira, uma empresa dedicada ao suporte do PostgreSQL e também é desenvolvedor ou melhor pesquisador na Ongres. A conversa foi sobre carreira, Agilidade, contribuição para projetos Opensource e claro, PostgreSQL. Qual foi o caminho dele para trabalhar exclusivamente com PostgreSQL e como é ser remumerado para desenvolver um projeto Opensource como PostgreSQL e StackGres.
-
+Em tempo de uma conversa sobre Golang com Felipe Oliveira, ele é Tech Manager na Nuveo e é um entusiasta de Golang e Kanban. A conversa também passou sobre testes, como começar a programar em Golang, também o que a linguagem precisa evolutir e sobre liderança técnica.
 
 **Referências**:
 * [Linkedin](https://www.linkedin.com/in/fabriziomello)
