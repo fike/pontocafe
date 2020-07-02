@@ -2,11 +2,14 @@
 title: "007 - Fabrízio Mello - Dá para ganhar dinheiro desenvolvendo para o PostgreSQL?"
 date: 2020-07-03T08:00:00-03:00
 tags: ["databases", "containers", "kubernetes", "postgresql", "cloud native"]
-draft: true
+draft: false
 ---
 ![](/images/pontocafe_007.png)
 
 E quem diria, chegamos no episódio 007? Fabrízio Mello é sócio na Timbira, uma empresa dedicada ao suporte do PostgreSQL e também é desenvolvedor ou melhor pesquisador na Ongres. A conversa foi sobre carreira, Agilidade, contribuição para projetos Opensource e claro, PostgreSQL. Qual foi o caminho dele para trabalhar exclusivamente com PostgreSQL e como é ser remumerado para desenvolver um projeto Opensource como PostgreSQL e StackGres.
+
+
+{{< anchor 007---Fabrzio-Mello---D-para-pagar-as-contas-desenvolvendo-para-o-PostgreSQL-efn7um >}}
 
 
 **Referências**:
