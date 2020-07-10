@@ -1,12 +1,14 @@
 ---
 title: "008 - Continuous Deployment"
-date: 2020-07-10T08:00:00-03:00
+date: 2020-07-09T13:00:00-03:00
 tags: ["databases", "containers", "kubernetes", "postgresql", "cloud native"]
-draft: true
+draft: false
 ---
 ![](/images/pontocafe_008.png)
 
 Este episódio é um ensaio para a apresentação sobre Continuous Deployment realizada no [TDC São Paulo Online 2020](https://thedevconf.com/tdc/2020/sampaonline/trilhas) na sala da [Zup](https://www.zup.com.br/). 
+
+{{< anchor 008---Continuous-Deployment-eg0822 >}}
 
 {{< speakerdeck 99ba52f254cb44b2a79ddf4b01b7c0eb >}}
 
