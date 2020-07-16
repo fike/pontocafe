@@ -11,7 +11,8 @@ Em tempo de uma conversa sobre Golang com Felipe Oliveira, ele é Tech Manager n
 {{< anchor 009---Felipe-Oliveira---A-goroutine-na-vida-de-um-programador-eg08h1 >}}
 
 **Referências**:
-* https://felipeweb.dev/
+* [https://felipeweb.dev/](https://felipeweb.dev/)
+* [Twitter](https://twitter.com/_felipeweb)
 * [Linkedin](https://www.linkedin.com/in/felipewebcloud)
 * [O dia a dia de um profissional que aprende: o calendário de estudo](https://www.alura.com.br/artigos/o-dia-a-dia-de-um-profissional-que-aprende-o-calendario-de-estudo)
 * [Platform Revolution](https://www.amazon.com.br/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=googleshopp00-20&linkCode=df0&hvadid=379693121961&hvpos=&hvnetw=g&hvrand=15677054756296215207&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-303822642427&psc=1)
