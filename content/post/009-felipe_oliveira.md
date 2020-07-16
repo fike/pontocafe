@@ -1,21 +1,20 @@
 ---
 title: "009 - Felipe Oliveira - A goroutine na vida de um programador"
-date: 2020-07-17T08:00:00-03:00
+date: 2020-07-16T12:00:00-03:00
 tags: ["kanban", "golang", "agilidade", "rust", "java", "testes"]
-draft: true
+draft: false
 ---
 ![](/images/pontocafe_009.jpg)
 
 Em tempo de uma conversa sobre Golang com Felipe Oliveira, ele é Tech Manager na Nuveo e é um entusiasta de Golang e Kanban. A conversa também passou sobre testes, como começar a programar em Golang, também o que a linguagem precisa evolutir e sobre liderança técnica.
 
+{{< anchor 009---Felipe-Oliveira---A-goroutine-na-vida-de-um-programador-eg08h1 >}}
+
 **Referências**:
-* [Linkedin](https://www.linkedin.com/in/fabriziomello)
-* [Twitter](https://twitter/fabriziomello)
-* [Ongres](httpts://ongres.com/)
-* [StackGres](https://stackgres.io/)
-* [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
-* [Zalando PostgreSQL Operator](https://github.com/zalando/postgres-operator)
-* [Custom Resource - Kubernete](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+* https://felipeweb.dev/
+* [Linkedin](https://www.linkedin.com/in/felipewebcloud)
+* [O dia a dia de um profissional que aprende: o calendário de estudo](https://www.alura.com.br/artigos/o-dia-a-dia-de-um-profissional-que-aprende-o-calendario-de-estudo)
+* [Platform Revolution](https://www.amazon.com.br/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=googleshopp00-20&linkCode=df0&hvadid=379693121961&hvpos=&hvnetw=g&hvrand=15677054756296215207&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-303822642427&psc=1)
 
 
 **Áudios**:
