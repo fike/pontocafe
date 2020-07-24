@@ -1,14 +1,14 @@
 ---
 title: "010 - Flávio Pontes - Organizações representadas por repositórios e arquitetura de sistemas "
-date: 2020-07-16T20:00:00-03:00
+date: 2020-07-23T20:00:00-03:00
 tags: ["engenharia de software", "micro serviços", "monolito", "python", "tdd"]
-draft: true
+draft: false
 ---
-![](/images/pontocafe_010.jpg)
+![](/images/pontocafe_010.png)
 
 Convidado para este episódio é Flávio Pontes, ele teve uma carreira bem interessante porque começou trabalhar com tecnologia, mudou para grafismo  e voltou para tecnologia. A conversa foi sobre Engenharia de Software, Liderança técnica, as armadilhas de mono ou multi repo, Continuous Delivery, TDD e tiquinho mais de outros assuntos. 
 
-{{< anchor 0>}}
+{{< anchor 010---Flvio-Pontes---Organizaes-representadas-por-repositrios-e-arquitetura-de-sistemas-egj3d9 >}}
 
 **Referências**:
 * [Linkedin](https://www.linkedin.com/in/flaviocpontes/)
