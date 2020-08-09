@@ -1,7 +1,7 @@
 ---
 title: "012 - DevOps, Cultura e Ferramentas"
 date: 2020-08-07T08:00:00-03:00
-tags: ["databases", "containers", "kubernetes", "postgresql", "cloud native"]
+tags: ["devops", "teoria das restrições", "lean", "toyota production system", "agilidade"]
 draft: false
 ---
 ![](/images/pontocafe_012.png)
