@@ -2,13 +2,13 @@
 title: "013 - Guilherme Elias - Jidoka e DevOps"
 date: 2020-08-13T13:00:00-03:00
 tags: ["engenharia de software", "qualidade", "quality assurance", "agilidade", "tdd"]
-draft: true
+draft: false
 ---
 ![](/images/pontocafe_013.png)
 
 DevOps, assim como Agilidade é muito influenciado pelo Sistema Produtivo Toyota, mais conhecido como Toyota Production System (TPS) ou como Lean na versão ocidentalizada. Jidoka é um dos conceitos mais importantes e muitas vezes deixado para segundo plano pelo Just-In-Time. No fim das contas Just-In-Time não é possível sem o Jidoka e qual a relação dele com DevOps? Para responder isso e contar um pouco da carreira dele, o convidado deste episódio é o Guilherme Elias.
 
-{{< anchor  >}}
+{{< anchor 013---Guilherme-Elias---Jidoka-e-DevOps-eht85g >}}
 
 **Referências**:
 * Guilherme Elias - [Linkedin](https://www.linkedin.com/in/guilhermelias/)
