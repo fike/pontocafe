@@ -8,10 +8,6 @@ draft: false
 
  A evolução da Tecnologia da Informação no decorrer das décadas é nítido mas muitas vezes esquecido, os fundamentos em TI continuam valendo mas não importante saber como funciona redes ou sistemas operacionais como antes. O mesmo vale para outros conceitos e metodologias e softwares. Daniel Requena, SRE do Ifood conta como foi viver essa evolução como antigo sysadmin no decorrer no tempo.
 
-Twitter: [@Daniel_Requena](https://twitter.com/Daniel_Requena)
-
-Linkedin: [@danielrequena](https://www.linkedin.com/in/danielrequena)
-
 {{< anchor 015---Daniel-Requena---Abstraes-em-TI-ej4g69 >}}
 
 **Referências**:

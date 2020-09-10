@@ -1,7 +1,7 @@
 ---
 title: "008 - Continuous Deployment"
 date: 2020-07-09T13:00:00-03:00
-tags: ["databases", "containers", "kubernetes", "postgresql", "cloud native"]
+tags: ["continuous deployment", "continuous delivery", "continuous integration", "load balancer"]
 draft: false
 ---
 ![](/images/pontocafe_008.png)
