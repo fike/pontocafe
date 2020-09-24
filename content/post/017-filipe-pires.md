@@ -1,5 +1,5 @@
 ---
-title: "017 - Filipe Pires - De vendas para Segurança"
+title: "017 - Filipi Pires - De vendas para Segurança"
 date: 2020-09-24T10:00:00-03:00
 tags: ["segurança", "red team", "blue team", "purple team"]
 draft: false
