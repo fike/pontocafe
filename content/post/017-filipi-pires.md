@@ -10,15 +10,17 @@ Filipi Pires conta um pouco a história profissional dele que é bem interessant
 
 Também conta como foi trabalhar na Polônia com Segurança da Informação. 
 
-{{< anchor 017---Filipe-Pires---De-vendas-para-segurana-ek3qph >}}
+{{< anchor  >}}
 
 **Referências**:
 * Filipi Pires - [Linkedin](https://www.linkedin.com/in/filipipires)
 * Filipi Pires - [Twitter](https://twitter.com/FilipiPires)
+* [Hacker Security](https://hackersec.com/)
+* [Hacker Security - Curso Análise Malware - Fundamentals](https://hackersec.com/treinamentos/curso-analise-de-malware-fundamentals/)
 * [WASP Network - Rede de Espiões](https://www.imdb.com/title/tt6760876/)
 * [The Walking Dead](https://www.imdb.com/title/tt1520211/)
 * [Breaking Dead](https://www.imdb.com/title/tt0903747/)
-* [IO](https://www.imdb.com/title/tt3256226/)
+* [You](https://www.netflix.com/br-en/title/80211991)
 * [Rodrigo Rubira Branco](https://twitter.com/bsdaemon)
 * [Fernando Mercês](https://twitter.com/mer0x36)
 
