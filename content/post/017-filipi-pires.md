@@ -10,7 +10,7 @@ Filipi Pires conta um pouco a história profissional dele que é bem interessant
 
 Também conta como foi trabalhar na Polônia com Segurança da Informação. 
 
-{{< anchor  >}}
+{{< anchor 017---Filipi-Pires---De-vendas-para-segurana-ek3qph >}}
 
 **Referências**:
 * Filipi Pires - [Linkedin](https://www.linkedin.com/in/filipipires)
