@@ -1,17 +1,17 @@
 ---
 title: "019 - Fernando Ike - Introdução ao SRE"
-date: 2020-10-30T10:00:00-03:00
+date: 2020-10-30T08:00:00-03:00
 tags: ["sre", "devops", "blameless", "golden signals", "continuous delivery"]
-draft: true
+draft: false
 ---
 ![](/images/pontocafe_019.png)
 
 Site Reliability Engineer, ou melhor, SRE foi criado pelo Google como uma forma de aplicar Engenharia de Software na Operação de TI, também conhecida como Infraestrutura. O que é, quais sãos os principais conceitos e qual aplicabilidade dele nas organizações.
 
-{{< anchor  >}}
+{{< anchor 019---Fernando-Ike---Uma-introduo-ao-SRE-elmoqf >}}
 
 **Referências**:
-* [Marcelo Gleiser - Einstein e a Relatividade](https://www.youtube.com/watch?v=uJ0PprNzMyg)
+* [Fear the Walking Dead](https://www.imdb.com/title/tt3743822/)
 * [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 * [Guide – Achieving Observability](https://www.honeycomb.io/guide-achieving-observability/)
