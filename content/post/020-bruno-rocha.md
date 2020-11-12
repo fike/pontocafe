@@ -6,7 +6,8 @@ draft: false
 ---
 ![logo do episódio 020](/images/pontocafe_020.png)
 
-Bruno Rocha é o convidado deste episódio para falar sobre a sua carreira na área de infraestrutura, ou melhor Operação de TI. Ele fala sobre como foi viver as diferente versões da função na área como sysadmin, SRE e agora Production Engineering. Também fala como foi ajudar na fundação da área de Production Engineering na [Creditas](https://www.creditas.com/). 
+Bruno Rocha é o convidado deste episódio para falar sobre a sua carreira na área de infraestrutura, ou melhor Operação de TI. Ele fala sobre como foi viver as diferente versões da função na área como sysadmin, SRE e agora Production Engineering. Também fala como foi ajudar na fundação da área de Production Engineering na [Creditas](https://www.creditas.com/), porque criaram ferramentas para facilitar a developer experience. 
+
 
 Por fim, comenta como é manter a rotina de acordar cedo e dá dicas para quem está na área.
 
