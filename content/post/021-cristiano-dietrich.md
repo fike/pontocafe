@@ -1,12 +1,12 @@
 ---
-title: "021 - Cristiano Dietrich - O poder das comunidades"
+title: "021 - Cristiano Diedrich - O poder das comunidades"
 date: 2020-11-19T09:00:00-03:00
 tags: ["sre", "devops", "production engineering", "sysadmin"]
 draft: false
 ---
 ![logo do episódio 021](/images/pontocafe_021.png)
 
-O convidado deste episódio é o Cristiano Dietrich, ele é SRE na [uMov.me](https://www.umov.me/), co-orgnizador do [Docker Porto Alegre](https://events.docker.com/rio-grande-do-sul/) e conta com as comunidade de tecnologia o ajudaram na carreira. Também fala como foi seu primeiro contato com tecnologia, o que é DevOps para ele dicas para quem está começando na área. 
+O convidado deste episódio é o Cristiano Diedrich, ele é SRE na [uMov.me](https://www.umov.me/), co-orgnizador do [Docker Porto Alegre](https://events.docker.com/rio-grande-do-sul/) e conta com as comunidade de tecnologia o ajudaram na carreira. Também fala como foi seu primeiro contato com tecnologia, o que é DevOps para ele dicas para quem está começando na área. 
 
 
 {{< anchor 021---Cristiano-Dietrich---O-poder-das-comunidades-emjioe >}}
