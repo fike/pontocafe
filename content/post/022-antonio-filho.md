@@ -6,7 +6,7 @@ draft: false
 ---
 ![logo do episódio 022](/images/pontocafe_022.png)
 
-O convidado deste episódio é o Antônio Filho,  formado em Física Médica e com Doutorado em Física Aplicada à Medicina e Biologia Pele. Ele é CTO na Nuveo e atua profissionalmente em Visão Computacional e NLP. Conta como foi a transição da carreira acadêmica para o mercado, os desafios relacionados a Inteligência Artificial, o hype do GPT-3 e dicas para quem está começando nessa área.
+O convidado deste episódio é o Antônio Filho, formado em Física Médica e com Doutorado em Física Aplicada à Medicina e Biologia pela Universidade de São Paulo. Ele é CTO na Nuveo e atua profissionalmente em Visão Computacional e NLP. Conta como foi a transição da carreira acadêmica para o mercado, os desafios relacionados a Inteligência Artificial, o hype do GPT-3 e dicas para quem está começando nessa área.
 
 
 {{< anchor 022---Antnio-Filho---Inteligncia-Artificial--carreira-e-Viso-Computacional-en5cej >}}
