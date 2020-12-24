@@ -1,5 +1,5 @@
 ---
-title: "024 - Vitor Lobo - Reliability Engineering antes de SRE existir."
+title: "024 - Vitor Lobo - Reliability Engineering antes de SRE existir"
 date: 2020-12-10T09:00:00-03:00
 tags: ["sre", "sysadmin", "monitoring"]
 draft: false
