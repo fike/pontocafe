@@ -2,13 +2,13 @@
 title: "028 - Lucas Margin - Produtos, Games e Jobs to be done"
 date: 2021-03-05T09:00:00-03:00
 tags: ["equipes", "devops"]
-draft: true
+draft: false
 ---
 ![logo do episódio 028](/images/pontocafe_028.png)
 
 Lidar com produtos digitais B2B e B2C tem uma diferença de como construir, como abordar as pessoas no discovery e talvez o principal - "Quantos nãos são deve-se se dar para um produto B2B escalar", este episódio o convidado Lucas Magrin vem para falar sobre estes temas, carreira de produto, venture building e um conceito em produto importante "Jobs to be done".
 
-{{< anchor >}}
+{{< anchor 028---Lucas-Magrin---Produtos--games-e-Jobs-to-be-done-esdilf >}}
 
 **Referências**:
 * [Lucas Magrin - Linkedin](https://www.linkedin.com/in/lucasmagrin/)
