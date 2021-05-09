@@ -2,7 +2,7 @@
 title: "030 - Andre Deo - Voltando ao mercado depois dos 40"
 date: 2021-04-20T09:00:00-03:00
 tags: ["opensource", "devops", "sre", "carreira"]
-draft: true
+draft: false
 ---
 ![logo do episódio 030](/images/pontocafe_030.png)
 
