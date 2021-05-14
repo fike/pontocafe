@@ -3,7 +3,7 @@ title: "031 - Miguel Ciurcio - Carreira em TI e como é pivotar uma empresa de c
 "
 date: 2021-05-13T09:00:00-03:00
 tags: ["equipes", "startup", "liderança", "processo seletivos", "software engineering"]
-draft: true
+draft: false
 ---
 ![logo do episódio 031](/images/pontocafe_031.png)
 
