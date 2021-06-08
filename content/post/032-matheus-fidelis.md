@@ -1,23 +1,27 @@
 ---
-title: "031 - Miguel Ciurcio - Carreira em TI e como é pivotar uma empresa de consultoria para produto
+title: "032 - Matheus Fidelis - SRE e Antifragilidade
 "
-date: 2021-05-13T09:00:00-03:00
+date: 2021-06-04T09:00:00-03:00
 tags: ["equipes", "startup", "liderança", "processo seletivos", "software engineering"]
 draft: false
 ---
-![logo do episódio 031](/images/pontocafe_031.png)
+![logo do episódio 032](/images/pontocafe_032png)
 
-O convidado deste episódio é o fundador da [Instruct](https://instruct.com.br), Miguel Ciurcio. Ele conta um pouco sobre a carreira dele, como foi criar uma empresa praticamente do zero, quais os desafios de pivotar uma empresa algumas vezes. Sendo, o desafio atual mudar de uma empresa de consultoria para uma epresa de produto. Também dá dicas como montar um currículo para chamar atenção de um recrutador num processo seletivo.
+Este episódio em como convidado o Matheus Fidelis para um papo sobre carreira, SRE e quanto os conceitos contidos nos livros (Cisne Negro, Antifragil e Skin in the Game) do Nassim Nicholas Taleb tem haver com Operações de TI, DevOps e resiliência.
 
-{{< anchor 031---Miguel-Ciurcio---Carreira-em-TI-e-como--pivotar-de-consultoria-para-produto-evkoi8>}}
+Matheus Fidelis é SRE no Itaú e tem um canal Youtube sobre DevOps, SRE e coisas Cloud Native.
+
+{{< anchor 032---Matheus-Fidelis---SRE-e-Antifragilidade-e1242sb>}}
 
 **Referências**:
-* [Miguel Ciurcio - Linkedin](https://www.linkedin.com/in/mciurcio)
-* [Miguel Ciurcio - Twitter](https://twitter.com/mciurcio)
-* [Operous](https://operous.dev/)
-* [Instruct](https://instruct.com.br/)
+* [Matheus Fidelis - Linkedin](https://www.linkedin.com/in/msfidelis/)
+* [Matheus Fidelis - Twitter](https://twitter.com/fidelissauro)
+* [Nanoshots](https://www.nanoshots.com.br/)
 * [Antifrágil - Nassim Nicholas Taleb](https://www.amazon.com/Antifragil-Coisas-Beneficiam-Portugues-Brasil/dp/8576846136)
 * [Lean Software Development - Mary Poppendick](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+Livro: Antifrágil 
+Musica: Album - [You're Welcome](https://en.wikipedia.org/wiki/You%27re_Welcome_(A_Day_to_Remember_album)) do [A Day to Remember](https://en.wikipedia.org/wiki/A_Day_to_Remember)
+
 
 **Host**:
 

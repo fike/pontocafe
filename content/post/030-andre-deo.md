@@ -9,7 +9,7 @@ draft: false
 O convidado deste episódio éo André Déo para contar um pouco como foi voltar ao mercado de trabalho depois de anos trabalhando numa instituição pública, como ele se preparou para a transição e dicas de como iniciar na carreira em TI. 
 Ele é um das pessoas que mais colaborou com a comunidade do Zabbix aqui no Brasil e é Cloud Architect na [Sensedia](https://www.sensedia.com/).
 
-{{< anchor  >}}
+{{< anchor 030---Andr-Do---Voltando-ao-mercado-depois-dos-40-evko0g>}}
 
 **Referências**:
 * [André Déo - Linkedin](https://www.linkedin.com/in/andredeo/)
