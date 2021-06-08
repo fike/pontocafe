@@ -5,7 +5,7 @@ date: 2021-06-04T09:00:00-03:00
 tags: ["equipes", "startup", "liderança", "processo seletivos", "software engineering"]
 draft: false
 ---
-![logo do episódio 032](/images/pontocafe_032png)
+![logo do episódio 032](/images/pontocafe_032.png)
 
 Este episódio em como convidado o Matheus Fidelis para um papo sobre carreira, SRE e quanto os conceitos contidos nos livros (Cisne Negro, Antifragil e Skin in the Game) do Nassim Nicholas Taleb tem haver com Operações de TI, DevOps e resiliência.
 
