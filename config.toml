@@ -19,7 +19,7 @@ pygmentsStyle = "pygments"
   tag = "tags"
 
 [permalinks]
-  post = "/:filename/"
+  post = "/:title/"
 
 [params]
   # Header text, can be markdown
