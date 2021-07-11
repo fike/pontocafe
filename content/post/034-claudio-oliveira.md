@@ -1,6 +1,6 @@
 ---
 title: "034 - Claudio de Oliveira - APIs"
-date: 2021-07-11T09:00:00-03:00
+date: 2021-07-11T08:00:00-03:00
 tags: ["rest", "grpc", "graphql", "rest", "gateways"]
 draft: false
 ---
