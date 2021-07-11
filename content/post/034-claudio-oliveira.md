@@ -8,7 +8,7 @@ draft: false
 
 Claudio de Oliveira é nosso convidado de deste episódio para falar da sua carreira, também falar o que são APIs em HTTP, quais os principais tipos, vantagens e desvantagens de uso de cada uma como REST, GraphQL e gRPC.
 
-Felip Oliveira é Tech Lead APIs na [Luiza Labs](https://medium.com/luizalabs).
+Claudio de Oliveira é Tech Lead APIs na [Luiza Labs](https://medium.com/luizalabs).
 
 {{< anchor 034---Claudio-de-Oliveira---APIs-e148j7q >}}
 

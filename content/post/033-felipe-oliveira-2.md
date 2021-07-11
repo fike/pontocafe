@@ -8,7 +8,7 @@ draft: false
 
 Alguns anos atrás era muito popular criar distribuições Linux para fins específicos como distribuições educacionais, científicas, focadas em usuário final, outras em segurança e só para aprender. Nos anos 20 do século 21 está se tornando cada vez mais popular criar distribuições Kubernetes. O convidado deste episódio é o Felipe Oliveira para contar um pouco o que são distribuições Kubernetes e porque criar uma como [Undistro](https://undistro.io/).
 
-Felip Oliveira é Head of Product Engineering na [Getup](https://getup.io/).
+Felipe Oliveira é Head of Product Engineering na [Getup](https://getup.io/).
 
 {{< anchor 033---Felipe-Oliveira---Distribuies-Kuberntes-e-Undistro-e13g1uq>}}
 
