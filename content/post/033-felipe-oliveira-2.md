@@ -13,7 +13,7 @@ Felip Oliveira é Head of Product Engineering na [Getup](https://getup.io/).
 {{< anchor 033---Felipe-Oliveira---Distribuies-Kuberntes-e-Undistro-e13g1uq>}}
 
 **Referências**:
-* [Felipe Oliveira - Linkedin](https://www.linkedin.com/in/msfidelis/)
+* [Felipe Oliveira - Linkedin](https://www.linkedin.com/in/felipewebcloud/)
 * [Felipe Oliveira - Twitter](https://twitter.com/_felipeweb)
 * [Felipe Oliveira - Site](https://felipeweb.dev/)
 * [Undistro](https://undistro.io/)
